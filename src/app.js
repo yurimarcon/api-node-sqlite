@@ -10,7 +10,7 @@ app.use(cors());
 import router from './routes.js'
 app.use(router);
 
-app.listen(3000, ()=>console.log("Api Rodando."))
+app.listen(process.env.PORT || 3000, ()=>console.log("Api Rodando."))
 
 https.createServer({
     cert: fs.readFileSync('src/SSL/code.crt'),
