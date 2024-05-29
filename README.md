@@ -1,4 +1,4 @@
-# API Node.js com Sqlite
+# API Node.js com banco de dados Sqlite
 
 Esse repositório contém o resultado de um passo a passo que está no YouTube onde eu explico como desenvolvemos uma API com Node.js.
 Para quem quiser acompanhar a playlist do YouTube, acesse:
