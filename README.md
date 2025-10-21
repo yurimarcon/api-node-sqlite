@@ -1,5 +1,6 @@
 # API Node.js com banco de dados Sqlite.
 Aprendendo FORK via curso adquirido no Udemy.
+Teste para verificar se o processo está automatizado.
 
 Esse repositório contém o resultado de um passo a passo que está no YouTube onde eu explico como desenvolvemos uma API com Node.js.
 Para quem quiser acompanhar a playlist do YouTube, acesse:
