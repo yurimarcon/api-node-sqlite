@@ -1,4 +1,4 @@
-# API Node.js com banco de dados Sqlite.
+# API Node.js com banco de dados Sqlite.   
 
 Aprendendo FORK via curso adquirido no Udemy.
 Teste para verificar se o processo está automatizado.
